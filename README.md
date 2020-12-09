@@ -1,4 +1,4 @@
-# pysummarization
+# myPySummary
 
 Console tool which reads long texts from `stdin` and outputs a summary of two sentences to `stdout`.
 
